@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Submission3_1"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+<stringAttribute key="org.eclipse.jdt.debug.ui.scrapbook_file_path" value="/Submission3_1/MyTest.jpage"/>
+<stringAttribute key="org.eclipse.jdt.debug.ui.scrapbook_launch" value="org.eclipse.jdt.debug.ui.scrapbook_launch"/>
+<listAttribute key="org.eclipse.jdt.launching.CLASSPATH">
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry externalArchive=&quot;D:/Computer Science/Java Programming 2/instalki/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/configuration/org.eclipse.osgi/bundles/161/1/.cp/snippetsupport.jar&quot; path=&quot;3&quot; type=&quot;2&quot;/&gt;&#13;&#10;"/>
+<listEntry value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;runtimeClasspathEntry containerPath=&quot;org.eclipse.jdt.launching.JRE_CONTAINER&quot; javaProject=&quot;Submission3_1&quot; path=&quot;1&quot; type=&quot;4&quot;/&gt;&#13;&#10;"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.jdt.launching.DEFAULT_CLASSPATH" value="false"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.eclipse.jdt.internal.debug.ui.snippeteditor.ScrapbookMain"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value=" file:/D:/Computer+Science/Java+Programming+2/labs/Laboratory3/.metadata/.plugins/org.eclipse.core.resources/.projects/Submission3_1/org.eclipse.jdt.debug.ui/ file:/D:/Computer+Science/Java+Programming+2/labs/Laboratory3/Submission3_1/ file:/D:/Computer+Science/Java+Programming+2/instalki/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/plugins/org.junit_4.11.0.v201303080030/junit.jar file:/D:/Computer+Science/Java+Programming+2/instalki/eclipse-standard-kepler-SR1-win32-x86_64/eclipse/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Submission3_1"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.jdt.debug.ui.scrapbookSourcepathProvider"/>
+</launchConfiguration>

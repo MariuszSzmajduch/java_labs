@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-alpn-client-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-alpn-server-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-annotations-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-cdi-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-client-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-continuation-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-deploy-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-http-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-io-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-jaas-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-jaspi-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-jmx-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-jndi-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-plus-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-proxy-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-quickstart-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-rewrite-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-schemas-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-security-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-server-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-servlet-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-servlets-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-util-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-webapp-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/jetty-xml-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Computer Science/repeat 2/JOOSE/Laboratory/Laboratory9/JarFiles/spark-core-2.0.0.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
